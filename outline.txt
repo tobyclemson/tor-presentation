@@ -1,0 +1,6 @@
+* What are alternative networks?
+* Why do networks like Tor exist?
+* How does Tor work?
+* How do I get started?
+* Risks?
+* Arguments against?
